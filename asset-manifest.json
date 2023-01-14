@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.18c476ba.css",
+    "main.js": "/static/js/main.e5ea874e.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/studentportal.png": "/static/media/studentportal.84b04791455a800e54c6.png",
+    "static/media/restrorec.png": "/static/media/restrorec.6f6b30c02444fb19dc8b.png",
+    "static/media/googlecloud.png": "/static/media/googlecloud.e2a5fd7209288156e43d.png",
+    "static/media/employeemgmt.png": "/static/media/employeemgmt.343ba01cdeb7de895f6a.png",
+    "static/media/dataanalysis.png": "/static/media/dataanalysis.c6e19db00a00c5f65a86.png",
+    "static/media/basicmusicplayer.png": "/static/media/basicmusicplayer.099af0956164e585ce2c.png",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Rushabh Panbude_Resume.pdf": "/static/media/Rushabh Panbude_Resume.abf3468e1b922aeb57bf.pdf",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.18c476ba.css.map": "/static/css/main.18c476ba.css.map",
+    "main.e5ea874e.js.map": "/static/js/main.e5ea874e.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18c476ba.css",
+    "static/js/main.e5ea874e.js"
+  ]
+}
