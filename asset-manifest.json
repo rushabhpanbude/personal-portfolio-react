@@ -1,28 +1,29 @@
 {
   "files": {
-    "main.css": "/personal-portfolio-react/static/css/main.44af7a35.css",
-    "main.js": "/personal-portfolio-react/static/js/main.2cfdd4b9.js",
+    "main.css": "/personal-portfolio-react/static/css/main.1e90f3bd.css",
+    "main.js": "/personal-portfolio-react/static/js/main.06040f0c.js",
     "static/js/415.4d6acbeb.chunk.js": "/personal-portfolio-react/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/personal-portfolio-react/static/js/787.1ed0c42c.chunk.js",
     "static/media/studentportal.png": "/personal-portfolio-react/static/media/studentportal.84b04791455a800e54c6.png",
     "static/media/restrorec.png": "/personal-portfolio-react/static/media/restrorec.6f6b30c02444fb19dc8b.png",
+    "static/media/socialmedia.png": "/personal-portfolio-react/static/media/socialmedia.efe285dc57ff809bc98b.png",
     "static/media/googlecloud.png": "/personal-portfolio-react/static/media/googlecloud.e2a5fd7209288156e43d.png",
     "static/media/employeemgmt.png": "/personal-portfolio-react/static/media/employeemgmt.343ba01cdeb7de895f6a.png",
     "static/media/dataanalysis.png": "/personal-portfolio-react/static/media/dataanalysis.c6e19db00a00c5f65a86.png",
     "static/media/basicmusicplayer.png": "/personal-portfolio-react/static/media/basicmusicplayer.099af0956164e585ce2c.png",
     "static/media/home-main.svg": "/personal-portfolio-react/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/personal-portfolio-react/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/Rushabh Panbude_Resume.pdf": "/personal-portfolio-react/static/media/Rushabh Panbude_Resume.4210257afbed6a6afb1a.pdf",
+    "static/media/Rushabh Panbude_Resume.pdf": "/personal-portfolio-react/static/media/Rushabh Panbude_Resume.1b2a7d189880e3bd30b2.pdf",
     "static/media/home-bg.jpg": "/personal-portfolio-react/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/pre.svg": "/personal-portfolio-react/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/personal-portfolio-react/index.html",
-    "main.44af7a35.css.map": "/personal-portfolio-react/static/css/main.44af7a35.css.map",
-    "main.2cfdd4b9.js.map": "/personal-portfolio-react/static/js/main.2cfdd4b9.js.map",
+    "main.1e90f3bd.css.map": "/personal-portfolio-react/static/css/main.1e90f3bd.css.map",
+    "main.06040f0c.js.map": "/personal-portfolio-react/static/js/main.06040f0c.js.map",
     "415.4d6acbeb.chunk.js.map": "/personal-portfolio-react/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/personal-portfolio-react/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.44af7a35.css",
-    "static/js/main.2cfdd4b9.js"
+    "static/css/main.1e90f3bd.css",
+    "static/js/main.06040f0c.js"
   ]
 }
