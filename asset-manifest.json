@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/personal-portfolio-react/static/css/main.4541f8be.css",
-    "main.js": "/personal-portfolio-react/static/js/main.771d20ff.js",
+    "main.css": "/personal-portfolio-react/static/css/main.33df9076.css",
+    "main.js": "/personal-portfolio-react/static/js/main.b311d9b8.js",
     "static/js/415.4d6acbeb.chunk.js": "/personal-portfolio-react/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/personal-portfolio-react/static/js/787.1ed0c42c.chunk.js",
     "static/media/restrorec.png": "/personal-portfolio-react/static/media/restrorec.1541dce0419d22442b4d.png",
@@ -13,17 +13,17 @@
     "static/media/basicmusicplayer.png": "/personal-portfolio-react/static/media/basicmusicplayer.099af0956164e585ce2c.png",
     "static/media/home-main.svg": "/personal-portfolio-react/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/personal-portfolio-react/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/Rushabh Panbude_Resume.pdf": "/personal-portfolio-react/static/media/Rushabh Panbude_Resume.4711706e8df5b80bbcb8.pdf",
+    "static/media/Rushabh Panbude_Resume.pdf": "/personal-portfolio-react/static/media/Rushabh Panbude_Resume.609e391a526efacec4d1.pdf",
     "static/media/home-bg.jpg": "/personal-portfolio-react/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/pre.svg": "/personal-portfolio-react/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/personal-portfolio-react/index.html",
-    "main.4541f8be.css.map": "/personal-portfolio-react/static/css/main.4541f8be.css.map",
-    "main.771d20ff.js.map": "/personal-portfolio-react/static/js/main.771d20ff.js.map",
+    "main.33df9076.css.map": "/personal-portfolio-react/static/css/main.33df9076.css.map",
+    "main.b311d9b8.js.map": "/personal-portfolio-react/static/js/main.b311d9b8.js.map",
     "415.4d6acbeb.chunk.js.map": "/personal-portfolio-react/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/personal-portfolio-react/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4541f8be.css",
-    "static/js/main.771d20ff.js"
+    "static/css/main.33df9076.css",
+    "static/js/main.b311d9b8.js"
   ]
 }
